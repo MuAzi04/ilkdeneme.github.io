@@ -217,7 +217,8 @@ figure {
 
 .container-wrap {
   max-width: 1170px;
-  margin: 0 auto; }
+  
+  margin-left: -1000px; }
 
 #colorlib-main {
   width: calc(100% - 300px);
